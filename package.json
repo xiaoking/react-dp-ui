@@ -1,0 +1,44 @@
+{
+  "name": "react-dp-ui",
+  "version": "0.0.1",
+  "description": "react ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "redux"
+  ],
+  "author": "minxiaoctrip@sina.com",
+  "license": "ISC",
+  "dependencies":{
+      "react": "^0.13.3",
+      "redux": "^0.12.0",
+      "gulp": "^3.5.6",
+      "classnames": "^2.1.2"
+  },
+  "devDependencies": {
+      "babel-core": "^5.5.8",
+      "babel-loader": "^5.1.4",
+      "node-libs-browser": "^0.5.2",
+      "raw-loader": "^0.5.1",
+      "react-hot-loader": "^1.2.7",
+      "style-loader": "^0.12.3",
+      "webpack": "^1.9.11",
+      "webpack-dev-server": "^1.9.0",
+      "gulp-load-plugins": "^0.5.1",
+      "glob": "^4.0.6",
+      "gulp": "^3.8.8",
+      "gulp-less": "^1.3.6",
+      "gulp-livereload": "^2.1.1",
+      "gulp-minify-css": "^0.3.10",
+      "gulp-rename": "^1.2.0",
+      "gulp-webpack": "^0.4.1",
+      "merge-stream": "^0.1.6",
+      "webpack-bower-resolver": "0.0.1"
+  }
+}
